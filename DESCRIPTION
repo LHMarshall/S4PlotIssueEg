@@ -1,0 +1,17 @@
+Package: S4PlotIssueEg
+Type: Package
+Depends:
+    methods
+Title: What the Package Does (Title Case)
+Version: 0.1
+Date: 2015-09-12
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: This package it trying to demonstrate when the plot functions
+    defined in the package cannot be found when the graphics package is
+    imported.
+License: GPL (>=2)
+LazyData: TRUE
+Collate:
+    'ClassB.R'
+    'ClassA.R'
