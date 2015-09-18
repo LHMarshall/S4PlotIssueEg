@@ -22,7 +22,6 @@ setMethod(
   }
 )
 
-#' @importFrom graphics plot
 setMethod(
   f="plot",
   signature="A",
